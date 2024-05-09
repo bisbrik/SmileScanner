@@ -1,0 +1,22 @@
+About the project in Markdown:
+
+## Inspiration
+Our inspiration for SmileScanner came from recognizing the challenges faced by individuals who struggle with interpreting facial expressions. Traditional human-computer interaction methods often lack naturalness and intuitive feedback, particularly for those with difficulties in facial expression recognition. We aimed to develop a system that could assist and support these individuals in understanding emotions in others.
+
+## What it does
+SmileScanner is a facial recognition project that uses Arduino hardware, along with Python and OpenCV software, to recognize facial expressions in real time. The system interprets and responds to facial expressions, providing immediate feedback through LED lighting. This technology offers a natural and intuitive interface, bridging the gap in emotional communication.
+
+## How we built it
+We built SmileScanner using Arduino Uno for hardware and Python with OpenCV for software. The project involved training the system to detect and interpret facial expressions, mapping them to corresponding LED feedback. Through iterative development and testing, we refined the system to accurately recognize a range of emotions in real-time scenarios.
+
+## Challenges we ran into
+One of the main challenges we faced was fine-tuning the facial recognition algorithm to accurately detect and interpret subtle facial expressions. Additionally, integrating the Arduino hardware with the Python and OpenCV software posed technical challenges that required creative solutions.
+
+## Accomplishments that we're proud of
+We're proud to have developed a functional system that not only recognizes facial expressions but also provides meaningful feedback through LED lighting. Our project demonstrates the potential of technology to enhance emotional communication and support individuals with difficulties in facial expression recognition.
+
+## What we learned
+Through this project, we learned about the complexities of facial recognition and the importance of human-centered design in technology. We also gained valuable experience in integrating hardware and software components to create a cohesive system.
+
+## What's next for SmileScanner
+In the future, we aim to further refine and optimize SmileScanner to improve its accuracy and usability. We also plan to explore additional applications for the technology, such as in educational or therapeutic settings, where it could provide valuable support for individuals with emotional communication challenges.
