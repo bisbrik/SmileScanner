@@ -1,0 +1,9 @@
+SpeedHacks 2024: SmileScanner Team
+Outline:
+Our team, SmileScanner is developing a "machine" to analyze a user's facial expression
+and output the expressed emotion back to the user.
+Based upon a user's expressed emotion, a corresponding light will appear:
+Green - Happiness
+Blue - Sadness
+Red - Anger
+White - Neutral
