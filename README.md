@@ -16,9 +16,13 @@ Features:
 Technologies Used:
 
 Python: Core programming language for the project.
+
 OpenCV: Used for image and video processing.
+
 DeepFace: Library for deep learning-based face recognition.
+
 NumPy: For numerical operations.
+
 Arduino UNO: Microcontroller used for LED light integration.
 
 Problem Statement:
